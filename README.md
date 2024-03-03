@@ -10,8 +10,6 @@ git clone https://github.com/gdevakumar/RAG-using-Langchain-Streamlit.git
 2. Install the dependencies
 ```
 cd RAG-using-Langchain-Streamlit
-```
-```
 pip install -r requirements.txt
 ```
 
