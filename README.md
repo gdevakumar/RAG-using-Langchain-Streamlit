@@ -15,8 +15,9 @@ cd RAG-using-Langchain-Streamlit
 pip install -r requirements.txt
 ```
 
-3. Setup your **OPENAI_API_KEY** in `.env` file and save it
-![alt text](image.png)
+3. Setup your **OPENAI_API_KEY** in `.env` file and save
+
+    `OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>`
 
 4. Run the application
 ```
